@@ -32,6 +32,6 @@ npm run build
 
 ### Author
 
-|     Name     |                  Link                   |
-| :----------: | :-------------------------------------: |
-| Deepak Kumar | [https://twitter.com/diipakkr](Twitter) | [https://www.linkedin.com/in/dipakkr/](LinkedIn) |
+|     Name     |                                            Link                                             |
+| :----------: | :-----------------------------------------------------------------------------------------: |
+| Deepak Kumar | [Twitter](https://twitter.com/diipakkr) \| [LinkedIn](https://www.linkedin.com/in/dipakkr/) |
